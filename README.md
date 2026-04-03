@@ -1,6 +1,6 @@
 # Ozmandias的C语言练习博客 :link: https://Ozmand1as.github.io/ozmandias.github.io 
 ### :page_facing_up: [2](https://Ozmand1as.github.io/ozmandias.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 1004 
-### :alarm_clock: 2026-04-03 15:22:00 
+### :hibiscus: 1681 
+### :alarm_clock: 2026-04-03 15:46:35 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
